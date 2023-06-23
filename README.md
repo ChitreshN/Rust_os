@@ -1,3 +1,3 @@
 **A minimal rust kernel**
 
-A project from meme cred
+A project for meme cred
